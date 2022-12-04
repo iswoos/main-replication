@@ -10,6 +10,7 @@ spring:
     username: 아이디
     password: 비밀번호
 
+
   jpa:
     properties:
       hibernate:
